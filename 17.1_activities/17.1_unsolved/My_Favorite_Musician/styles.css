@@ -1,0 +1,19 @@
+p {
+	color: mintcream;
+	background-color: indianred;
+}
+
+img {
+	width: 300px;
+}
+h1 {
+	text-transform: uppercase;
+	font-family: helvetica, sans-serif;
+	font-style: bold;
+}
+li {
+	background-color: black
+	color: white;
+	text-align: center;
+	height: 200px;
+}
