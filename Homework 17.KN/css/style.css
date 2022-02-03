@@ -1,5 +1,5 @@
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Helvetica', sans-serif;
 }
 
 /* Grid CSS */
@@ -8,8 +8,8 @@ body {
   display: grid;
   min-height: 500px;
   height: 70vh;
-  grid-template-rows: 75% 25%;
-  grid-template-columns: 75% 25%;
+  grid-template-rows: 100%;
+  grid-template-columns: 100%;
   grid-template-areas:
   "featuredProduct secondaryProduct"
   "featuredProduct CTA"
@@ -17,7 +17,7 @@ body {
 }
 #featuredProduct {
   grid-area: featuredProduct;
-  background-image: url("../images/furniture1.png");
+  background-image: url("../images/hero1KN.jpg");
 }
 #secondaryProduct {
   grid-area: secondaryProduct;
@@ -31,7 +31,7 @@ body {
 }
 #headline {
   background-color: rgba(255,255,255,0.8);
-  border-bottom: 5px solid #FF6200;
+  border-bottom: 5px solid #434348;
   position: absolute;
   right: -50px;
   top: 100px;
@@ -62,34 +62,23 @@ body {
   grid-template-rows: 300px 300px 300px;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
-  "bookcases bedroom patio"
-  "couches couches patio"
-  "desks desks desks"
+  "bookcases bedroom couches"
+ 
   ;
 }
-#bookcases {
-  grid-area: bookcases;
-  background-image: url("../images/bookcases@2x.png");
+#theNewMomProject {
+  grid-area: The New Mom Project;
+  background-image: url("../images/newmomprojectdesktop@2x.png");
 
 }
-#bedroom {
-  grid-area: bedroom;
-  background-image: url("../images/beds@2x.png");
+#departmentOfHomelandSecurity {
+  grid-area: Department of Homeland Security;
+  background-image: url("../images/dhsdesktop@2x.png");
 }
 
-#couches {
-  grid-area: couches;
-  background-image: url("../images/couch@2x.png");
-}
-
-#patio {
-  grid-area: patio;
-  background-image: url("../images/patio@2x.png");
-}
-
-#desks {
-  grid-area: desks;
-  background-image: url("../images/desks@2x.png");
+#studio201Placeholder {
+  grid-area: studio 201 Placeholder;
+  background-image: url("../images/studio201placeholder@2x.png");
 }
 
 .categoryGridArea {
@@ -108,7 +97,7 @@ body {
   height: 25px;
   color: white;
   font-size: 18px;
-  border-bottom: 5px solid #FF6200;
+  border-bottom: 5px solid #434348;
 }
 /* Navigation CSS */
 /* CHECK OUT THIS CODE BELOW IF YOU WANT TO GET A REFRESHER ON FLEX */
@@ -142,7 +131,7 @@ body {
   cursor: pointer;
 }
 .highlight {
-  color: #FF6200;
+  color: #434348;
   font-weight: 700;
 }
 
@@ -151,7 +140,7 @@ body {
 h2 {
   font-size: 60px;
   margin: 0px 0px;
-  color: #FF6200;
+  color: #434348;
 }
 
 h3 {
