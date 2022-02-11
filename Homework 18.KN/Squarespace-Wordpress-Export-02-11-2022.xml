@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Karen Narayan</title>
+    <link>https://www.karennarayan.com</link>
+    <pubDate>Fri, 28 Jan 2022 17:36:54 +0000</pubDate>
+    <description />
+    <language>en-CA</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-145643239</wp:author_id>
+      <wp:author_login>karen.m.narayan@gmail.com</wp:author_login>
+      <wp:author_email>karen.m.narayan@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Karen Narayan]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Karen]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Narayan]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Wed, 09 Feb 2022 19:07:01 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="62029c33f8f70a5aebfef247" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="62029c4738e8a05bd387088a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6203efd6e56dcc674c44930b&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1644425174777,
+    &quot;updatedOn&quot;: 1644425174817,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1644425174777,
+    &quot;authorId&quot;: &quot;61f429b4f4af4760c8c34fec&quot;,
+    &quot;systemDataId&quot;: &quot;76be36cf-19a5-47d6-83ec-883c2cfd238a&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1200,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+    &quot;filename&quot;: &quot;Portfolio Wireframe - FOR SQUARESPACE - LIGHTER.png&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;f8f8f8&quot;,
+      &quot;topRightAverage&quot;: &quot;f8f8f8&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;f8f8f8&quot;,
+      &quot;bottomRightAverage&quot;: &quot;f8f8f8&quot;,
+      &quot;centerAverage&quot;: &quot;b1b1b1&quot;,
+      &quot;suggestedBgColor&quot;: &quot;f8f8f8&quot;
+    },
+    &quot;urlId&quot;: &quot;9hnwv6q37aza3wc1qzmq19i7216pke&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;61f429b4f4af4760c8c34fec&quot;,
+      &quot;displayName&quot;: &quot;Karen Narayan&quot;,
+      &quot;firstName&quot;: &quot;Karen&quot;,
+      &quot;lastName&quot;: &quot;Narayan&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/61f429b535f0763786016820&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/61f429b535f0763786016820&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/76be36cf-19a5-47d6-83ec-883c2cfd238a/Portfolio+Wireframe+-+FOR+SQUARESPACE+-+LIGHTER.png&quot;,
+    &quot;contentType&quot;: &quot;image/png&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;2500x1200&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+  
+      
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/76be36cf-19a5-47d6-83ec-883c2cfd238a/Portfolio+Wireframe+-+FOR+SQUARESPACE+-+LIGHTER.png" data-image="https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/76be36cf-19a5-47d6-83ec-883c2cfd238a/Portfolio+Wireframe+-+FOR+SQUARESPACE+-+LIGHTER.png" data-image-dimensions="2500x1200" data-image-focal-point="0.5,0.5" alt="Portfolio Wireframe - FOR SQUARESPACE - LIGHTER.png" 
+    data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/76be36cf-19a5-47d6-83ec-883c2cfd238a/Portfolio+Wireframe+-+FOR+SQUARESPACE+-+LIGHTER.png?format=100w 100w,https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/76be36cf-19a5-47d6-83ec-883c2cfd238a/Portfolio+Wireframe+-+FOR+SQUARESPACE+-+LIGHTER.png?format=300w 300w,https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/76be36cf-19a5-47d6-83ec-883c2cfd238a/Portfolio+Wireframe+-+FOR+SQUARESPACE+-+LIGHTER.png?format=500w 500w,https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/76be36cf-19a5-47d6-83ec-883c2cfd238a/Portfolio+Wireframe+-+FOR+SQUARESPACE+-+LIGHTER.png?format=750w 750w,https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/76be36cf-19a5-47d6-83ec-883c2cfd238a/Portfolio+Wireframe+-+FOR+SQUARESPACE+-+LIGHTER.png?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/76be36cf-19a5-47d6-83ec-883c2cfd238a/Portfolio+Wireframe+-+FOR+SQUARESPACE+-+LIGHTER.png?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/76be36cf-19a5-47d6-83ec-883c2cfd238a/Portfolio+Wireframe+-+FOR+SQUARESPACE+-+LIGHTER.png?format=2500w 2500w"
+      
+      sizes="(max-width: 799px) 200vw, 100vw" 
+      onLoad="positionImage(this); this.classList.add('loaded');"
+      loading="lazy"
+    
+  />
+  
+
+          
+      
+      <div class="section-background-overlay" style="opacity: 0;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62029c4738e8a05bd387088a"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-ac92e3ee42da1f0d1949"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about-me</link>
+      <title>About Me</title>
+      <pubDate>Wed, 09 Feb 2022 19:01:09 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="62029bfff0d7c044170d77d7" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="62029bfff0d7c044170d77da"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 65,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62029bfff0d7c044170d77da"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-009fa983a0938afecfc8"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><span class="sqsrte-text-color--darkAccent">Karen Narayan is a UX designer based in Toronto.</span></h3><p class="sqsrte-small" style="white-space:pre-wrap;">karen.m.narayan@gmail.com</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-0beee8bedb8e7f52c960"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-98773dd675b9ea14a5d7"><div class="sqs-block-content"><p class="sqsrte-small" style="white-space:pre-wrap;">The son of a fashion designer and a sculptor, he got his start assisting his parents on photo shoots for their own projects. That quickly led to commissions from their friends and before he graduated from high school he was already steadily in demand in Los Angeles’ vibrant creative community. </p><p class="sqsrte-small" style="white-space:pre-wrap;">A move to New York for film school led to contacts in the music and advertising worlds. Upon graduating, his growing client base allowed him to set up his own studio focused on aesthetically driven visual storytelling. </p><p class="sqsrte-small" style="white-space:pre-wrap;">Zion has been honored to work with top international brands and magazines, as well as leading figures in the art community. He is always excited when projects allow him to meet new people and travel to new places. </p></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about-me</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact-1</link>
+      <title>Contact</title>
+      <pubDate>Wed, 09 Feb 2022 16:45:35 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="62029c00775ee77d8ae57ccf" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="6202bd6b50e3c722c14eae27"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6202bd6b50e3c722c14eae27"><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-29b902d65e0e9ce44e64"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Get in touch.</h4><p class="" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.</p></div></div><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-6804f51bd7a68b8673d8"><div class="sqs-block-content">
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="6202bd6b50e3c722c14eae22"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://reindeer-gazelle-ybf3.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '6202bd6b50e3c722c14eae22',
+      collectionId: '62029c00775ee77d8ae57cd0',
+      objectName: 'page-section-6202bd6b50e3c722c14eae27'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-74df0467-5dd9-45ff-a0a8-c49aae7872f3" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-08a2b6cf-7ab4-44e4-81f6-2fd757366f9d" class="form-item field email required">
+                
+            <label class="title" for="email-08a2b6cf-7ab4-44e4-81f6-2fd757366f9d-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-08a2b6cf-7ab4-44e4-81f6-2fd757366f9d-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    placeholder="Email"
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-11ca1e9a-f0a0-4353-b462-136018803298" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-11ca1e9a-f0a0-4353-b462-136018803298-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-11ca1e9a-f0a0-4353-b462-136018803298-field"
+                    placeholder="Message"
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-left
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Send"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-088a48ec69c15d584e51"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-acbe8bf5ce14472b548d"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2329px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:70.37355041503906%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/1644346911608-9YFAYM0GWIY4OB8N4458/unsplash-image-P8PlK2nGwqA.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/1644346911608-9YFAYM0GWIY4OB8N4458/unsplash-image-P8PlK2nGwqA.jpg" data-image="https://images.squarespace-cdn.com/content/v1/61f429b620d50433eadf3d0f/1644346911608-9YFAYM0GWIY4OB8N4458/unsplash-image-P8PlK2nGwqA.jpg" data-image-dimensions="2329x1639" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="6202be1f52bc0578ce856639" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
